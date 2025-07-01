@@ -8,6 +8,7 @@ I am a Machine Learning learner and Data Science enthusiast with a strong passio
     Bachelor's project where I developed an AI model based on neural networks to identify and segment affected lung tissue in CT scans of COVID-19 patients. Achieved 70% overlap with expert segmentations.
   
     *Technologies: TensorFlow, Deep Learning, Convolutional Neural Networks.*
+  - **[Model Training Process in COVID 19 Segmentation](https://github.com/Panis26/Portafolio/tree/main/DeepLearning/CNN/COVID19-segmentation)
 
 ## 🔧 Skills 🔧
 - **Programming Languages:** Python, SQL.
